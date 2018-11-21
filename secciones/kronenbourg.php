@@ -8,7 +8,7 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/francia.png" alt="" /></div>
+	<div class="paises_productos"><img src="imagenes/productos/paises/FranciaKronenbour-79.png" alt="" /></div>
 	<div class="banners_productos">
 		<img src="imagenes/productos/banners/kronenbourg.jpg" alt="KRONENBOURG 1664" />
 		<a href="http://www.kronenbourg1664.com" target="_blank" >www.kronenbourg1664.com</a>

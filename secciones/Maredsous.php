@@ -8,7 +8,7 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/repcheca.png" alt="" /></div>
+	<div class="paises_productos"><img src="imagenes/productos/paises/BelgicaMaredsous.png" alt="" /></div>
 	<div class="banners_productos">
 		<img src="imagenes/productos/banners/czechvar.jpg" alt="CZECHVAR" />
 		<a href="http://www.czechvar.com/index.html" target="_blank" >www.czechvar.com</a>

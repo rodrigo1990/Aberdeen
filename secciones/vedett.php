@@ -8,7 +8,7 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/belgica2.png" alt="" /></div>
+	<div class="paises_productos"><img src="imagenes/productos/paises/BelgicaVedett.png" alt="" /></div>
 	<div class="banners_productos">
 		<img src="imagenes/productos/banners/piraat.jpg" alt="PIRAAT" />
 		<a href="http://www.vansteenberge.com/es/nuestras-cervezas/piraat/" target="_blank" >www.vansteenberge.com/es/nuestras-cervezas/piraat/</a>

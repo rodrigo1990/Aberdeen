@@ -8,6 +8,7 @@
 </script>
 
 <div class="centra960">
+	<div class="paises_productos"><img src="imagenes/productos/paises/InglaterraAbbotAle-79.png" alt="" /></div>
 	<div class="banners_productos">
 		<img src="imagenes/productos/banners/berlina.jpg" alt="Berlina" />
 		<a href="http://www.cervezaberlina.com" target="_blank" >www.cervezaberlina.com</a>

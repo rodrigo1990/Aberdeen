@@ -8,7 +8,7 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/australia.png" alt="" /></div>
+	<div class="paises_productos"><img src="imagenes/productos/paises/InglaterraSpeckled-79.png" alt="" /></div>
 	<div class="banners_productos">
 		<img src="imagenes/productos/banners/coopers.jpg" alt="COOPERS" />
 		<a href="http://www.coopers.com.au/" target="_blank" >www.coopers.com.au</a>
