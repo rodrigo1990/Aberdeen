@@ -15,11 +15,11 @@
 	</div>
 	<div class="izquierda_productos">
 		<img src="../imagenes/productos/logos/abbot.jpg" alt="" />
-		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-		<img src="../imagenes/productos/variedad.png" alt="" />
+		<br /><br /><br /><br />
+		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
 	<div class="derecha_productos">
-		<a class="titulos_productos">BERLINA</a>
+		<a class="titulos_productos">ABBOT ALE</a>
 		<br /><br />
 		<b>Abbot Ale</b> this is a Pale Ale English beer and as such, at first sight its amber colour catches the eye. This is a high-quality beer that is brewed in accordance with its original recipe (since 1950), meeting the highest quality standards. This ale offers masses of fruit character and a great balance between malt and hop.
 		<br /><br />

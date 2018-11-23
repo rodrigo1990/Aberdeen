@@ -15,8 +15,8 @@
 	</div>
 	<div class="izquierda_productos">
 		<img src="../imagenes/productos/logos/speckled.jpg" alt="" width="150px" />
-		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-		<img src="../imagenes/productos/variedad.png" alt="" />
+		<br /><br /><br />
+		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
 	<div class="derecha_productos">
 		<a class="titulos_productos">OLD SPECKLED HEN</a>

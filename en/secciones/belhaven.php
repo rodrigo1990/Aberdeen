@@ -8,50 +8,50 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/argentina.png" alt="" /></div>
+	<div class="paises_productos"><img src="../imagenes/productos/paises/argentina.png" alt="" /></div>
 	<div class="banners_productos">
-		<img src="imagenes/productos/banners/berlina.jpg" alt="Berlina" />
+		<img src="../imagenes/productos/banners/berlina.jpg" alt="Berlina" />
 		<a href="http://www.cervezaberlina.com" target="_blank" >www.cervezaberlina.com</a>
 	</div>
 	<div class="izquierda_productos">
-		<img src="imagenes/productos/logos/belhaven.jpg" alt="" width="150px" />
-		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+		<img src="../imagenes/productos/logos/belhaven.jpg" alt="" width="150px" />
+		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
 	<div class="derecha_productos">
 		<a class="titulos_productos">BELHAVEN</a>
 		<br /><br />
-		Belhaven nació en Escocia en 1720. Su principal diferencial es su materia prima: agua pura de la mejor calidad, maltas y lúpulos de producción local con un cuidado que los vuelve únicos dan vida a la mejor cerveza escocesa. Casi 300 años de tradición llegan a la Argentina en sus 4 mejores versiones: Black Scottis Stout, Scottish Ale, Twisted Thistle IPA, y Wee Heavy.
+		Belhaven was born in Scotland in 1720. Its main unique characteristic is its ingredients: best-quality pure water, malt and hops that are locally produced so carefully that this reason alone makes them unique. They give life to the best Scottish beer. Over 300 years of tradition come to Argentina with the best versions: Black Scottish Stout, Scottish Ale, Twisted Thistle IPA and Wee Heavy.
 		<br /><br />
-		<b>Belhaven Black Scottish Stout:</b> Cerveza negra y oscura, de sabor suave e inconfundible. Realmente es algo completamente diferente. Llena de deliciosas notas tostadas de café y chocolate, esta es una pinta de sabor original y verdaderamente premium. Elaborada con agua escocesa pura y una mezcla única de maltas triples escocesas procedentes de la mejor cebada (cultivada localmente).
+		<b>Belhaven Black Scottish Stout:</b> this is a black, dark beer, with a mild taste which is perfectively identifiable. It is really a completely different product. Full of delicious coffee and chocolate tones, this is a pint with an original flavor and truly Premium-quality. It is brewed with pure Scottish water and a unique mixture of triple Scottish malts that come from the best barley (locally cultivated). 
 		<br /><br />
-		¡Esta cerveza recibió un premio Monde Gold Award en 2014 
+		This beer was awarded with a Monde Gold Award in 2014.
 		<br /><br />
-		<b>Belhaven Scottish Ale:</b> Con 100% de malta escocesa y el mejor lúpulo inglés en perfecto equilibrio. Es suave con acento de sabor a nuez y como toda Scottish su color rojo oscuro llama la atención y despierta los sentidos. Una cerveza escocesa clásica.
+		<b>Belhaven Scottish Ale:</b> this beer offers 100% of Scottish malt and the best hop in perfect balance. It is mild and it tastes to some nuts. As with all Scottish beers, its dark red colour catches the eye and arouses senses. This is a classical Scottish beer. 
 		<br /><br />
-		<b>Belhaven Twisted Thistle IPA:</b> Esta audaz cerveza es un símbolo del estilo americano IPA. Belhaven logró el perfecto equilibrio entre la malta de cebada escocesa de cuerpo completo, con lúpulos Challenger, Cascade y Hersbrucker para producir una cerveza de aroma a pomelo en nariz y que sigue con un sabor en boca muy refrescante y toques de amargor. Twisted Thistle recibió el premio Monde Silver Award en 2014.
+		<b>Belhaven Twisted Thistle IPA:</b> This incredible beer is a symbol of the typical IPA, American style. Belhaven reached the perfect balance between Scottish barley malt with full body and Challenger Cascade and Hersbrucker hops. As a result, there is an aroma of grapefruit firstly perceived by the nose followed by a very refreshing taste in mouth with some hints of bitterness. Twisted Thistle was awarded the Mondel Silver Award in 2014.
 		<br /><br />
-		<b>Belhaven Wee Heavy:</b> Esta Strong Scotch Ale clásica es una cerveza rica y fuerte que muestra lo mejor de la malta escocesa. Sabor dulce a malta tostada en boca, equilibrado con notas picantes. La Wee Heavy es una cerveza densa y compleja, de mucho cuerpo, muy sabrosa y fuerte, pero sobre todo; equilibrada.
+		<b>Belhaven Wee Heavy:</b> this classical Strong Scotch Ale is a rich and strong beer that shows the very best of the Scottish malt. Its flavor is sweet in mouth thanks to roasted malt, good balance and some spicy hints. Wee Heavy is a strong and complex beer, full-bodied, very tasty and strong, and specially balanced.
 		<br /><br />
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/belhaven/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/belhaven/1.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/belhaven/1_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/belhaven/1.jpg" alt="" /></a>
 			<div class="titulo_producto">Belhaven<br />Black</div>
-			Botella x 500ml
+			Bottle  x 500ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/belhaven/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/belhaven/2.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/belhaven/2_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/belhaven/2.jpg" alt="" /></a>
 			<div class="titulo_producto">Belhaven<br />Scottish Ale</div>
-			Botella x 330ml
+			Bottle  x 330ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/belhaven/3_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/belhaven/3.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/belhaven/3_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/belhaven/3.jpg" alt="" /></a>
 			<div class="titulo_producto">Belhaven<br />Twisted Thistle IPA</div>
-			Botella x 330ml
+			Bottle  x 330ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/belhaven/4_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/belhaven/4.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/belhaven/4_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/belhaven/4.jpg" alt="" /></a>
 			<div class="titulo_producto">Belhaven<br />Wee Heavy</div>
-			Botella x 330ml
+			Bottle  x 330ml
 		</div>
 		<div class="clear"></div>
 	</div>

@@ -16,7 +16,7 @@
 	<div class="izquierda_productos">
 		<img src="../imagenes/productos/logos/vedett.png" alt="" />
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-		<img src="../imagenes/productos/variedad.png" alt="" />
+		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
 	<div class="derecha_productos">
 		<a class="titulos_productos">VEDETT</a>

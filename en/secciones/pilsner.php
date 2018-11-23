@@ -8,46 +8,46 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/RepChecaPilsner-79.png" alt="" /></div>
+	<div class="paises_productos"><img src="../imagenes/productos/paises/RepChecaPilsner-79.png" alt="" /></div>
 	<div class="banners_productos">
-		<img src="imagenes/productos/banners/flensburger.jpg" alt="flensburger" />
+		<img src="../imagenes/productos/banners/flensburger.jpg" alt="flensburger" />
 		<a href="http://www.flens.de" target="_blank" >www.flens.de</a>
 	</div>
 	<div class="izquierda_productos">
-		<img src="imagenes/productos/logos/pilsner.jpg" alt="" />
+		<img src="../imagenes/productos/logos/pilsner.jpg" alt="" />
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
 	<div class="derecha_productos">
 		<a class="titulos_productos">PILSNER URQUELL </a>
 		<br /><br />
-		Es una cerveza de fermentación baja, elaborada desde el año 1842 en la ciudad de Pilsen, Bohemia (República Checa).	
+		This is a low-fermentation beer that has been produced since 1842 in the City of Pilsen, Bohemia (Czech Republic).
 		<br /><br />
-		Se la considera un "modelo de medida", ya que todas las demás pilseners son un intento (mejor o peor) de copiar al original: la primera Pilsner Urquell. Su excepcionalidad sin igual está garantizada la misma receta que data de 1842.
+		It is called the "model of meter" among beers as all other pilsners are a better or worse attempt to copy the original - the first ever Pilsner Urquell. Su excepcionalidad sin igual está garantizada la misma receta que data de 1842. Its unparalleled exceptionality is guaranteed by the same recipe dating from 1842.
 		<br /><br />
-		Fue la primera cerveza pilsener de la historia, elaborada por el cervecero Josef Groll, y se convirtió en todo un símbolo. Cualquier cerveza que se denomine a sí misma pilsner, pilsener o pils se refiere de una forma u otra a una variante de este estilo de cerveza.
+		It was the first Pilsener beer in history, which was manufactured by a Bavarian brewer called Josef Groll. Pilsner Urquell is now a symbol and any beer that is considered as a Pilsner, Pilsener or Pils is related in one way or another to a variant of this style of beer.
 		<br /><br />
-		La cerveza Pilsner Urquell tiene una aroma floral como resultado del uso de los lúpulos Saaz, una variedad noble del lúpulo. Siendo una cerveza lager, se considera limpia (no afrutada). Además, sabe fuertemente a malta en comparación con otras cervezas Pilsner, debido al uso de una maceración de decocción. Aunque es más agria que la mayoría de las cervezas de este tipo, la amargura no persiste por el agua suave que usa la cervecería. Además contiene una graduación alcohólica de 4,4%, inferior a otras cervezas rubias.
+		Pilsner Urquell has a floral aroma as Saaz, a "noble" variety of hops, are used for its brewing. As a lager beer, it is considered clean, that is, non-fruity. Besides, it strongly tastes to malt in comparison with other Pilsner beers due to a decoction mashing process. Even when it is sourer than most of the beers of its kind, its bitterness is not persistent as soft water is used at the brewery. Its ABV is 4.4%, lower than the alcoholic content for other lager beers.
 		<br /><br />
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/pilsner/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/pilsner/1.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/pilsner/1_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/pilsner/1.jpg" alt="" /></a>
 			<div class="titulo_producto">Pilsner Urquell<br />Pale Lager</div>
-			Botella x 330ml
+			Bottle x 330ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/pilsner/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/pilsner/2.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/pilsner/2_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/pilsner/2.jpg" alt="" /></a>
 			<div class="titulo_producto">Pilsner Urquell<br />Pale Lager</div>
-			 Lata x 500ml
+			 Can x 500ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/pilsner/3_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/pilsner/3.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/pilsner/3_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/pilsner/3.jpg" alt="" /></a>
 			<div class="titulo_producto">Pilsner Urquell<br />Pale Lager</div>
-			 Botella x  500ml
+			 Bottle x  500ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/pilsner/4_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/pilsner/4.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/pilsner/4_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/pilsner/4.jpg" alt="" /></a>
 			<div class="titulo_producto">Pilsner Urquell<br />Pale Lager</div>
-			Barril x 20lts <br> (no retornable)
+			Barrel x 20lts <br> (non-returnable)
 		</div>
 		<div class="clear"></div>
 	</div>
