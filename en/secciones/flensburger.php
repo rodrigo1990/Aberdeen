@@ -64,7 +64,7 @@
 		<div class="contiene_producto">
 			<a class="fancybox" href="../imagenes/productos/flensburger/7_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/flensburger/7.jpg" alt="" /></a>
 			<div class="titulo_producto">Flensburger<br />Pilsener</div>
-			Barril 5l
+			Barrel 5l
 		</div>
 		<div class="contiene_producto">
 			<a class="fancybox" href="../imagenes/productos/flensburger/8_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/flensburger/8.jpg" alt="" /></a>

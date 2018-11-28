@@ -40,7 +40,7 @@
 		<div class="contiene_producto">
 			<a class="fancybox" href="imagenes/productos/weidmann/3_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/weidmann/3.jpg" alt="" /></a>
 			<div class="titulo_producto">Wiedmann<br />Hefeweiss Bier<br />Hefetrüb</div>
-			Barril x 5 lts.
+			Barrel x 5 lts.
 		</div>
 		<div class="clear"></div>
 	</div>

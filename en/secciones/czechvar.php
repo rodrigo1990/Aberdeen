@@ -8,13 +8,13 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/repcheca.png" alt="" /></div>
+	<div class="paises_productos"><img src="../imagenes/productos/paises/repcheca.png" alt="" /></div>
 	<div class="banners_productos">
-		<img src="imagenes/productos/banners/czechvar.jpg" alt="CZECHVAR" />
+		<img src="../imagenes/productos/banners/czechvar.jpg" alt="CZECHVAR" />
 		<a href="http://www.czechvar.com/index.html" target="_blank" >www.czechvar.com</a>
 	</div>
 	<div class="izquierda_productos">
-		<img src="imagenes/productos/logos/czechvar.png" alt="" />
+		<img src="../imagenes/productos/logos/czechvar.png" alt="" />
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
@@ -32,24 +32,29 @@
 		We cannot really describe the flavor of Czechvar beer. It has to be tasted!
 		<br /><br />
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/czechvar/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/czechvar/1.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/czechvar/1_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/czechvar/1.jpg" alt="" /></a>
 			<div class="titulo_producto">Czechvar<br />Original Lager</div>
 			Can x 500ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/czechvar/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/czechvar/2.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/czechvar/2_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/czechvar/2.jpg" alt="" /></a>
 			<div class="titulo_producto">Czechvar<br />Original Lager</div>
 			Bottle x 330ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/czechvar/3_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/czechvar/3.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/czechvar/3_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/czechvar/3.jpg" alt="" /></a>
 			<div class="titulo_producto">Czechvar Dark<br />Lager</div>
 			Bottle x 330ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/czechvar/4_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/czechvar/4.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/czechvar/4_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/czechvar/4.jpg" alt="" /></a>
 			<div class="titulo_producto">Czechvar<br />Original Lager</div>
-			Barril x 5lts
+			Barrel x 5lts
+		</div>
+		<div class="contiene_producto">
+			<a class="fancybox" href="../imagenes/productos/czechvar/5_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/czechvar/5.jpg" alt="" /></a>
+			<div class="titulo_producto">Czechvar<br />Original Lager</div>
+			Barrel x 20lts <br>(non-returnable)
 		</div>
 		<div class="clear"></div>
 	</div>

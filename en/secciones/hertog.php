@@ -8,13 +8,13 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/holanda.png" alt="" /></div>
+	<div class="paises_productos"><img src="../imagenes/productos/paises/holanda.png" alt="" /></div>
 	<div class="banners_productos">
-		<img src="imagenes/productos/banners/hertog.jpg" alt="HERTOG JAN" />
+		<img src="../imagenes/productos/banners/hertog.jpg" alt="HERTOG JAN" />
 		<a href="http://www.hertogjan.nl/" target="_blank" >www.hertogjan.nl</a>
 	</div>
 	<div class="izquierda_productos">
-		<img src="imagenes/productos/logos/hertog.png" alt="" />
+		<img src="../imagenes/productos/logos/hertog.png" alt="" />
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
@@ -28,20 +28,16 @@
 		Hertog Jan is not to be missed! 
 		<br /><br />
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/hertog/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/hertog/1.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/hertog/1_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/hertog/1.jpg" alt="" /></a>
 			<div class="titulo_producto">Hertog Jan<br />Dubbel</div>
 			Bottle x 500ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/hertog/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/hertog/2.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/hertog/2_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/hertog/2.jpg" alt="" /></a>
 			<div class="titulo_producto">Hertog Jan<br />Tripel</div>
 			Bottle x 500ml
 		</div>
-		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/hertog/3_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/hertog/3.jpg" alt="" /></a>
-			<div class="titulo_producto">Hertog Jan<br />Grand Prestige</div>
-			Bottle x 500ml
-		</div>
+		
 		<div class="clear"></div>
 	</div>
 	<div class="clear"></div>

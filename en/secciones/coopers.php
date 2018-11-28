@@ -8,13 +8,13 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/australia.png" alt="" /></div>
+	<div class="paises_productos"><img src="../imagenes/productos/paises/australia.png" alt="" /></div>
 	<div class="banners_productos">
-		<img src="imagenes/productos/banners/coopers.jpg" alt="COOPERS" />
+		<img src="../imagenes/productos/banners/coopers.jpg" alt="COOPERS" />
 		<a href="http://www.coopers.com.au/" target="_blank" >www.coopers.com.au</a>
 	</div>
 	<div class="izquierda_productos">
-		<img src="imagenes/productos/logos/coopers.png" alt="" />
+		<img src="../imagenes/productos/logos/coopers.png" alt="" />
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
@@ -34,17 +34,17 @@
 		Don’t miss Coopers!
 		<br /><br />
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/coopers/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/coopers/1.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/coopers/1_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/coopers/1.jpg" alt="" /></a>
 			<div class="titulo_producto">Coopers<br />Original Pale Ale</div>
 			Bottle x 375ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/coopers/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/coopers/2.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/coopers/2_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/coopers/2.jpg" alt="" /></a>
 			<div class="titulo_producto">Coopers<br />Sparkling Ale</div>
 			Bottle x 375ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/coopers/3_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/coopers/3.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/coopers/3_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/coopers/3.jpg" alt="" /></a>
 			<div class="titulo_producto">Coopers Best<br />Extra Stout</div>
 			Bottle x 375ml
 		</div>
