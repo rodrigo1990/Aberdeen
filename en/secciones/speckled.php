@@ -37,7 +37,7 @@
 		<div class="contiene_producto">
 			<a class="fancybox" href="../imagenes/productos/speckled/3_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/speckled/3.jpg" alt="" /></a>
 			<div class="titulo_producto">Old Speckled Hen</div>
-			Keg 30lts (non-returnable)
+			Barrel 30lts (non-returnable)
 		</div>
 		<div class="clear"></div>
 	</div>
