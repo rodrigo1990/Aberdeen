@@ -30,12 +30,12 @@
 		<a href="?s=czechvar" ><img src="imagenes/marcas_nuevas/5.png" alt="" /></a>
 		<a href="?s=pilsner" ><img src="imagenes/marcas_nuevas/pilsner_logo.png" alt="" /></a>
 		<a href="?s=belhaven" ><img src="imagenes/marcas_nuevas/belhaven_logo.png" alt="" /></a>
-		<!-- 
+		<!-- <a href="?s=coopers" ><img src="imagenes/marcas_nuevas/7.png" alt="" /></a>
 		<a href="?s=fullers" ><img src="imagenes/marcas_nuevas/3.png" alt="" /></a>		 -->
 		<br>
 		
 		
-		<a href="?s=coopers" ><img src="imagenes/marcas_nuevas/7.png" alt="" /></a>
+		<a href="?s=celis_white" ><img src="imagenes/marcas_nuevas/9.png" alt="" /></a>
 		<br /><br /><br /><br /><br />
 		<a href="?s=inkakola" ><img src="imagenes/marcas_nuevas/10.png" alt="" width="80px" /></a>
 		<a href="?s=ponti" ><img src="imagenes/marcas_nuevas/21.png" alt=""  width="120px"/></a>
