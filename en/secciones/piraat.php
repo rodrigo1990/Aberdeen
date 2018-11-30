@@ -8,13 +8,13 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/belgica2.png" alt="" /></div>
+	<div class="paises_productos"><img src="../imagenes/productos/paises/belgica2.png" alt="" /></div>
 	<div class="banners_productos">
-		<img src="imagenes/productos/banners/piraat.jpg" alt="PIRAAT" />
+		<img src="../imagenes/productos/banners/piraat.jpg" alt="PIRAAT" />
 		<a href="http://www.vansteenberge.com/es/nuestras-cervezas/piraat/" target="_blank" >www.vansteenberge.com/es/nuestras-cervezas/piraat/</a>
 	</div>
 	<div class="izquierda_productos">
-		<img src="imagenes/productos/logos/piraat.png" alt="" />
+		<img src="../imagenes/productos/logos/piraat.png" alt="" />
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
@@ -35,14 +35,19 @@
 		Happy drinking!
 		<br /><br />
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/piraat/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/piraat/1.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/piraat/1_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/piraat/1.jpg" alt="" /></a>
 			<div class="titulo_producto">Piraat</div>
 			Bottle x 330ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/piraat/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/piraat/2.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/piraat/2_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/piraat/2.jpg" alt="" /></a>
 			<div class="titulo_producto">Piraat Triple<br />Hop</div>
 			Bottle x 330ml
+		</div>
+		<div class="contiene_producto">
+			<a class="fancybox" href="../imagenes/productos/piraat/3_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/piraat/3.jpg" alt="" /></a>
+			<div class="titulo_producto">Piraat <br />Gift Pack</div>
+			1 Piraat 330ml + 1 Piraat Triple Hop 330ml + 1 Cup
 		</div>
 		<div class="clear"></div>
 	</div>

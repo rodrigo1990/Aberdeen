@@ -8,13 +8,13 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/belgica2.png" alt="" /></div>
+	<div class="paises_productos"><img src="../imagenes/productos/paises/belgica2.png" alt="" /></div>
 	<div class="banners_productos">
-		<img src="imagenes/productos/banners/westmalle.jpg" alt="WESTMALLE" />
+		<img src="../imagenes/productos/banners/westmalle.jpg" alt="WESTMALLE" />
 		<a href="http://www.trappistwestmalle.be/en/page/brouwerij.aspx" target="_blank" >www.trappistwestmalle.be/en/page/brouwerij.aspx</a>
 	</div>
 	<div class="izquierda_productos">
-		<img src="imagenes/productos/logos/westmalle.png" alt="" />
+		<img src="../imagenes/productos/logos/westmalle.png" alt="" />
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
@@ -38,12 +38,12 @@
 		Westmalle is an authentic Trappist beer!
 		<br /><br />
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/westmalle/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/westmalle/1.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/westmalle/1_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/westmalle/1.jpg" alt="" /></a>
 			<div class="titulo_producto">Westmalle<br />Dubbel</div>
 			Bottle x 330ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/westmalle/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/westmalle/2.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/westmalle/2_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/westmalle/2.jpg" alt="" /></a>
 			<div class="titulo_producto">Westmalle<br />Tripel</div>
 			Bottle x 330ml
 		</div>

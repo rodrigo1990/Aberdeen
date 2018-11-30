@@ -30,12 +30,17 @@
 		<div class="contiene_producto">
 			<a class="fancybox" href="../imagenes/productos/darguner/1_g.png" data-fancybox-group="gallery" ><img src="../imagenes/productos/darguner/1.png" alt="" /></a>
 			<div class="titulo_producto">Darguner<br />Pilsner</div>
-			Botella x 330ml
+			Bottle x 330ml
 		</div>
 		<div class="contiene_producto">
 			<a class="fancybox" href="../imagenes/productos/darguner/2_g.png" data-fancybox-group="gallery" ><img src="../imagenes/productos/darguner/2.png" alt="" /></a>
 			<div class="titulo_producto">Darguner<br />Pilsner</div>
-			Lata x 500ml
+			Can x 500ml
+		</div>
+		<div class="contiene_producto">
+			<a class="fancybox" href="../imagenes/productos/darguner/3_g.png" data-fancybox-group="gallery" ><img src="../imagenes/productos/darguner/3.jpg" alt="" /></a>
+			<div class="titulo_producto">Darguner<br />Weissbier</div>
+			Can x 500ml
 		</div>
 		<div class="clear"></div>
 	</div>

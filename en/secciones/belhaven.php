@@ -43,14 +43,15 @@
 			<div class="titulo_producto">Belhaven<br />Scottish Ale</div>
 			Bottle  x 330ml
 		</div>
-		<div class="contiene_producto">
-			<a class="fancybox" href="../imagenes/productos/belhaven/3_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/belhaven/3.jpg" alt="" /></a>
-			<div class="titulo_producto">Belhaven<br />Twisted Thistle IPA</div>
-			Bottle  x 330ml
-		</div>
+		
 		<div class="contiene_producto">
 			<a class="fancybox" href="../imagenes/productos/belhaven/4_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/belhaven/4.jpg" alt="" /></a>
 			<div class="titulo_producto">Belhaven<br />Wee Heavy</div>
+			Bottle  x 330ml
+		</div>
+		<div class="contiene_producto">
+			<a class="fancybox" href="../imagenes/productos/belhaven/3_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/belhaven/3.jpg" alt="" /></a>
+			<div class="titulo_producto">Belhaven<br />Twisted Thistle IPA</div>
 			Bottle  x 330ml
 		</div>
 		<div class="clear"></div>

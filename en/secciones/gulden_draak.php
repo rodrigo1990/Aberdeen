@@ -8,13 +8,13 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/belgica2.png" alt="" /></div>
+	<div class="paises_productos"><img src="../imagenes/productos/paises/belgica2.png" alt="" /></div>
 	<div class="banners_productos">
-		<img src="imagenes/productos/banners/gulden.jpg" alt="GULDEN DRAAK" />
+		<img src="../imagenes/productos/banners/gulden.jpg" alt="GULDEN DRAAK" />
 		<a href="http://www.vansteenberge.com/en/our-beer/gulden-draak/" target="_blank" >www.vansteenberge.com/en/our-beer/gulden-draak</a>
 	</div>
 	<div class="izquierda_productos">
-		<img src="imagenes/productos/logos/gulden.png" alt="" />
+		<img src="../imagenes/productos/logos/gulden.png" alt="" />
 		<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 		<img src="imagenes/productos/variedad.png" alt="" />
 	</div>
@@ -36,14 +36,24 @@
 		Discover its enchanting charm and taste this awesome beer! You will see how different it really is!
 		<br /><br />
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/gulden/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/gulden/1.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/gulden/1_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/gulden/1.jpg" alt="" /></a>
 			<div class="titulo_producto">Gulden Draak</div>
-			Bottle x 330ml
+			Botella x 330ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/gulden/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/gulden/2.jpg" alt="" /></a>
+			<a class="fancybox" href="../imagenes/productos/gulden/2_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/gulden/2.jpg" alt="" /></a>
 			<div class="titulo_producto">Gulden Draak<br />9000 Quadruple</div>
-			Bottle x 330ml
+			Botella x 330ml
+		</div>
+		<div class="contiene_producto">
+			<a class="fancybox" href="../imagenes/productos/gulden/4_g.jpg" data-fancybox-group="gallery" ><img src="../imagenes/productos/gulden/4.jpg" alt="" /></a>
+			<div class="titulo_producto">Gulden Draak</div>
+			Barril 20lts (no retornable)
+		</div>
+		<div class="contiene_producto">
+			<a class="fancybox" href="../imagenes/productos/gulden/3_g.png" data-fancybox-group="gallery" ><img src="../imagenes/productos/gulden/3.jpg" alt="" /></a>
+			<div class="titulo_producto">Gulden Draak<br />Gift Pack</div>
+			1 GD  x 330ml + 1 GDQ9000 x 330ml + 1 copa
 		</div>
 		<div class="clear"></div>
 	</div>

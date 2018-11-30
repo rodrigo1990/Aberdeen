@@ -25,17 +25,17 @@
 		De color ámbar profundo, brillante, con cálidos tonos rojizos y un aroma acaramelado, muy afrutado y malteado. Es una cerveza con gasificación justa, de buen cuerpo y sabor cálido con un acabado muy balanceado entre amargor y dulzor de malta. 		
 		<br /><br />
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/coopers/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/coopers/1.jpg" alt="" /></a>
+			<a class="fancybox" href="imagenes/productos/speckled/1_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/speckled/1.jpg" alt="" /></a>
 			<div class="titulo_producto">Old Speckled Hen</div>
 			Botella x 500ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/coopers/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/coopers/2.jpg" alt="" /></a>
+			<a class="fancybox" href="imagenes/productos/speckled/2_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/speckled/2.jpg" alt="" /></a>
 			<div class="titulo_producto">Old Speckled Hen</div>
 			Lata x 500ml
 		</div>
 		<div class="contiene_producto">
-			<a class="fancybox" href="imagenes/productos/coopers/3_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/coopers/3.jpg" alt="" /></a>
+			<a class="fancybox" href="imagenes/productos/speckled/3_g.jpg" data-fancybox-group="gallery" ><img src="imagenes/productos/speckled/3.jpg" alt="" /></a>
 			<div class="titulo_producto">Old Speckled Hen</div>
 			Barril 30lts (no retornable)
 		</div>
