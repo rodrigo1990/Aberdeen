@@ -8,7 +8,7 @@
 </script>
 
 <div class="centra960">
-	<div class="paises_productos"><img src="imagenes/productos/paises/BelgicaLaChouffe.png" alt="" /></div>
+	<div class="paises_productos"><img src="imagenes/productos/paises/BelgicaLaChouffe-79.png" alt="" /></div>
 	<div class="banners_productos">
 		<img src="imagenes/productos/banners/darguner.jpg" alt="Darguner" />
 		<a href="http://www.brauerei-dargun.de" target="_blank" >www.brauerei-dargun.de</a>

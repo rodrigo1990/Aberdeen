@@ -11,7 +11,7 @@
 	<div class="paises_productos"><img src="imagenes/productos/paises/alemania3.png" alt="" /></div>
 	<div class="banners_productos">
 		<img src="imagenes/productos/banners/darguner.jpg" alt="Darguner" />
-		<a href="http://www.darguner.de/de/" target="_blank" >www.darguner.de/de/</a>
+		<a href="http://www.brauerei-dargun.de" target="_blank" >www.brauerei-dargun.de</a>
 	</div>
 	<div class="izquierda_productos">
 		<img src="imagenes/productos/logos/darguner.png" alt="" />
