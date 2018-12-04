@@ -18,26 +18,48 @@
 					// Components							
 					slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 					slides 					:  	[			// Slideshow Images
-														{image : 'imagenes/home/oranjeboom.jpg'},
-														{image : 'imagenes/home/darguner.jpg'},
-														{image : 'imagenes/home/kronenbourg.jpg'},
-														{image : 'imagenes/home/fullers.jpg'},
-														{image : 'imagenes/home/flensburger.jpg'},
-														{image : 'imagenes/home/gulden_draak.jpg'},
-														{image : 'imagenes/home/czechvar.jpg'},
-														{image : 'imagenes/home/weidmann.jpg'},
-														{image : 'imagenes/home/coopers.jpg'},
-														{image : 'imagenes/home/grimbergen.jpg'},
-														{image : 'imagenes/home/piraat.jpg'},
-														{image : 'imagenes/home/hertog.jpg'},
-														{image : 'imagenes/home/westmalle.jpg'},
-														{image : 'imagenes/home/celis_white.jpg'},
-														{image : 'imagenes/home/horses.jpg'},
-														{image : 'imagenes/home/casafiesta.jpg'},
-														{image : 'imagenes/home/louisiana.jpg'},
-														{image : 'imagenes/home/richter.jpg'},
-														{image : 'imagenes/home/santiago.jpg'},
-														{image : 'imagenes/home/inkakola.jpg'}
+														{image : '../imagenes/home/1.jpg'},
+														{image : '../imagenes/home/2.jpg'},
+														{image : '../imagenes/home/3.jpg'},
+														{image : '../imagenes/home/4.jpg'},
+														{image : '../imagenes/home/5.jpg'},
+														{image : '../imagenes/home/6.jpg'},
+														{image : '../imagenes/home/7.jpg'},
+														{image : '../imagenes/home/8.jpg'},
+														{image : '../imagenes/home/9.jpg'}
+														/*{image : '../imagenes/home/grimbergen.jpg'},
+														{image : '../imagenes/home/piraat.jpg'},
+														{image : '../imagenes/home/hertog.jpg'},
+														{image : '../imagenes/home/westmalle.jpg'},
+														{image : '../imagenes/home/celis_white.jpg'},
+														{image : '../imagenes/home/horses.jpg'},
+														{image : '../imagenes/home/casafiesta.jpg'},
+														{image : '../imagenes/home/louisiana.jpg'},
+														{image : '../imagenes/home/richter.jpg'},
+														{image : '../imagenes/home/santiago.jpg'},
+														{image : '../imagenes/home/inkakola.jpg'}*/
+
+
+														/*{image : '../imagenes/home/oranjeboom.jpg'},
+														{image : '../imagenes/home/darguner.jpg'},
+														{image : '../imagenes/home/kronenbourg.jpg'},
+														{image : '../imagenes/home/fullers.jpg'},
+														{image : '../imagenes/home/flensburger.jpg'},
+														{image : '../imagenes/home/gulden_draak.jpg'},
+														{image : '../imagenes/home/czechvar.jpg'},
+														{image : '../imagenes/home/weidmann.jpg'},
+														{image : '../imagenes/home/coopers.jpg'},
+														{image : '../imagenes/home/grimbergen.jpg'},
+														{image : '../imagenes/home/piraat.jpg'},
+														{image : '../imagenes/home/hertog.jpg'},
+														{image : '../imagenes/home/westmalle.jpg'},
+														{image : '../imagenes/home/celis_white.jpg'},
+														{image : '../imagenes/home/horses.jpg'},
+														{image : '../imagenes/home/casafiesta.jpg'},
+														{image : '../imagenes/home/louisiana.jpg'},
+														{image : '../imagenes/home/richter.jpg'},
+														{image : '../imagenes/home/santiago.jpg'},
+														{image : '../imagenes/home/inkakola.jpg'}*/
 												]
 					
 				});
